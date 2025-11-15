@@ -1,1 +1,0 @@
-# activation-function-in-C
